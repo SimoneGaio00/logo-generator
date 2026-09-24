@@ -1,4 +1,4 @@
-export const INITIAL_LINES = ["YOUNG", "EUROPEAN", "FEDERALIST", ""];
+export const INITIAL_LINES = ["YOUNG", "EUROPEAN", "FEDERALISTS", ""];
 
 export const VARIANTS = {
   official: {
